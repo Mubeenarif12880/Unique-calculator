@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+// Muhammad Mubeen Arif BSCS section (D) roll no 52
 	int num1 , num2;
 	char x;
 	while(true)
